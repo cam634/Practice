@@ -18,5 +18,5 @@ var amount = 99.99;
 var amount = amount * quan
 amount = calculateFinalPurchaseAmount( amount );
 
-badBaby = "That will be " + "$" + amount.toFixed( 2 ) + " you will have "  + "$" + (bank - amount.toFixed( 2 )) + " remaining in your bank account!"
-alert( badBaby );	
+baby = "That will be " + "$" + amount.toFixed( 2 ) + " you will have "  + "$" + (bank - amount.toFixed( 2 )) + " remaining in your bank account!"
+alert( baby );	
